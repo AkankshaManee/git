@@ -2,6 +2,6 @@ hello everyone!
 how are you
 python
 machine learning
-library in numpy
+library in Numpy
 pandas
 data science
